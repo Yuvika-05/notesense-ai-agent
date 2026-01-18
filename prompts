@@ -1,0 +1,10 @@
+
+
+Purpose:
+Analyze raw notes to identify context, topics, and signals
+without summarizing or extracting final output.
+
+Key behavior:
+- Detect lecture vs meeting
+- Identify fact, decision, and task signals
+- Preserve uncertainty
